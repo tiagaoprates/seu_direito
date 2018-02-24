@@ -1,2 +1,2 @@
-# deu_direito
+# seu_direito
 Contratação de serviços jurídicos
