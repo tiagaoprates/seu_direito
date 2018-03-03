@@ -1,0 +1,3 @@
+from servico_juridico.model import advogado_data
+from servico_juridico.model import empresa_data
+from servico_juridico.model import ordem_servico_data
